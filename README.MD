@@ -1,7 +1,10 @@
-Mobile Cloud Computing Group 4
+﻿Photo Share Sample App
 ==============================
-Event-based picture sharing app allowing users participating to a certain event to share related pictures, with real-time synchronization and automatic
+An event-based picture sharing app allowing users participating to a certain event to share related pictures, with real-time synchronization and automatic
 categorization on the cloud based on the presence of people.
+
+This app was made as mobile cloud computing course exercise. Code was written by Samuli Mattila,  Matias Hämäläinen and Daniele Magurano. Mayhaps it provides some inspiration for future generations. 
+
 
 ## Deploy instruction
 
@@ -16,6 +19,8 @@ Then you can find the apk file to be installed in the following directory:
 ```  
 android/app/build/outputs/apk/debug
 ```
+
+Remember to change google cloud keys and access point to correspont your account.
 
 ## File and folder layout
 
